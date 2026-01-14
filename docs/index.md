@@ -6,11 +6,17 @@ title: Meta Attacks for AI - Official Documentation
 ## Meta Attacks for AI: Human and AI Reviewers Under Attack  
 Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026  
 
+---  
+
 ## Preprint  
   
-Zenodo (Latest version):  
-[https://doi.org/10.5281/zenodo.18248787](https://doi.org/10.5281/zenodo.18248787)  
-
+- Zenodo (Latest version):  
+  [https://doi.org/10.5281/zenodo.18248787](https://doi.org/10.5281/zenodo.18248787)  
+- X Announcement:  
+  [https://x.com/hajimetwi3/status/2011559002648559773?s=20](https://x.com/hajimetwi3/status/2011559002648559773?s=20) 
+  
+---  
+  
 ## Abstract (from the Preprint)  
   
 The abstract below is quoted from the preprint version 1.0.
