@@ -49,9 +49,9 @@ these Meta Attacks target the guardrail mechanisms themselves, including human a
 ## Author  
   
 Written by Hajime Tsui  
-X (Twitter): https://x.com/hajimetwi3  
-GitHub: https://github.com/hajimetwi3  
-Reddit: https://www.reddit.com/user/hajimetwi3/  
+X (Twitter): [https://x.com/hajimetwi3](https://x.com/hajimetwi3)  
+GitHub: [https://github.com/hajimetwi3](https://github.com/hajimetwi3)  
+Reddit: [https://www.reddit.com/user/hajimetwi3/](https://www.reddit.com/user/hajimetwi3/)  
 
 ---  
 
