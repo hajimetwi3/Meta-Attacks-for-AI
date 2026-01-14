@@ -37,6 +37,17 @@ Unlike jailbreak or prompt injection attacks that aim to extract prohibited outp
 these Meta Attacks target the guardrail mechanisms themselves, including human and AI reviewers. 
 
 ```
+  
+---  
+
+## Author  
+  
+Written by Hajime Tsui  
+X (Twitter): https://x.com/hajimetwi3  
+GitHub: https://github.com/hajimetwi3  
+Reddit: https://www.reddit.com/user/hajimetwi3/  
+
+---  
 
 ## Contact  
   
