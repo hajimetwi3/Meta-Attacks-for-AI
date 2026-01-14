@@ -1,0 +1,37 @@
+{%- assign u = page.url | default: "" -%}
+
+{%- if u == "/" or u == "/index.html" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "{{ '/' | absolute_url }}#webpage",
+      "url": "{{ '/' | absolute_url }}",
+      "name": "{{ page.title | default: site.title | escape }}",
+      "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description | escape }}",
+      "mainEntity": { "@id": "https://doi.org/10.5281/zenodo.18248787" }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.18248787",
+      "identifier": "https://doi.org/10.5281/zenodo.18248787",
+      "url": "https://doi.org/10.5281/zenodo.18248787",
+      "headline": "Meta Attacks for AI: Human and AI Reviewers Under Attack",
+      "author": {
+        "@type": "Person",
+        "name": "Hajime Tsui",
+        "url": "https://x.com/hajimetwi3",
+        "sameAs": ["https://x.com/hajimetwi3"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Zenodo"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}
+</script>
+{%- endif -%}
