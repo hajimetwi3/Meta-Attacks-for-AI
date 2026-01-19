@@ -19,7 +19,7 @@ Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026
   
 ## Abstract (from the Preprint)  
   
-The abstract below is quoted from the preprint version 1.0.
+The abstract below is quoted from the preprint version 1.1.
 For the most up-to-date version, please refer to the Zenodo record.  
 
 ```  
@@ -32,12 +32,12 @@ However, explicit attacks that target the guardrails themselves remain underexpl
 In this work, I examine this problem and define the following concepts:
 
 Meta Attacks / Infiltration for AI
-- Guardrail saturation attacks (Saturation Attacks), including:
-  - AI-review-based guardrail saturation attacks
-  - Human-review-based guardrail saturation attacks
-- Exposure enhancement via AI human review (Exposure Enhancement)
-- Attacks on AI human reviewers (i.e., content moderators) via guardrails
-- Attacks on AI reviewers via guardrails
+- Guardrail saturation attacks (Saturation Attacks), including:  
+  - AI-review-based guardrail saturation attacks  
+  - Human-review-based guardrail saturation attacks  
+- Exposure enhancement via human and AI-based review systems (including AI/AGI/ASI)  
+  - Attacks on human reviewers (i.e., content moderators) via guardrails  
+  - Attacks on AI-based review systems via guardrails  
 
 Unlike jailbreak or prompt injection attacks that aim to extract prohibited outputs, 
 these Meta Attacks target the guardrail mechanisms themselves, including human and AI reviewers. 
