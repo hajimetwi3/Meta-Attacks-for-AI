@@ -13,7 +13,9 @@ Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026
 - Zenodo (Latest version):  
   [https://doi.org/10.5281/zenodo.18248787](https://doi.org/10.5281/zenodo.18248787)  
 - X Announcement:  
-  [https://x.com/hajimetwi3/status/2011559002648559773?s=20](https://x.com/hajimetwi3/status/2011559002648559773?s=20) 
+  [https://x.com/hajimetwi3/status/2011559002648559773?s=20](https://x.com/hajimetwi3/status/2011559002648559773?s=20)
+- Note (Japanese version):  
+  [https://note.com/hajimetwi3/n/nfc91c9fce06a](https://note.com/hajimetwi3/n/nfc91c9fce06a)  
   
 ---  
   
@@ -56,6 +58,7 @@ Written by Hajime Tsui
 - Reddit: [https://www.reddit.com/user/hajimetwi3/](https://www.reddit.com/user/hajimetwi3/)  
 - BlueSky: [https://bsky.app/profile/hajimetwi3.bsky.social](https://bsky.app/profile/hajimetwi3.bsky.social)  
 - Zenodo: [Records](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tsui%2C%20Hajime%22&l=list&p=1&s=10&sort=mostviewed)  
+- Note: [https://note.com/hajimetwi3](https://note.com/hajimetwi3)
 
 ---  
 
