@@ -15,7 +15,7 @@ Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026
 - X Announcement:  
   [https://x.com/hajimetwi3/status/2011559002648559773?s=20](https://x.com/hajimetwi3/status/2011559002648559773?s=20)
 - Note (Japanese version):  
-  [https://note.com/hajimetwi3/n/nfc91c9fce06a](https://note.com/hajimetwi3/n/nfc91c9fce06a)  
+  [https://note.com/hajimetwi3/n/n910e8d585c9e](https://note.com/hajimetwi3/n/n910e8d585c9e)  
   
 ---  
   
