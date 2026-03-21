@@ -45,6 +45,9 @@ Unlike jailbreak or prompt injection attacks that aim to extract prohibited outp
 these Meta Attacks target the guardrail mechanisms themselves, including human and AI reviewers. 
 
 ```
+
+### Keywords  
+Meta Attacks for AI, guardrails, human-in-the-loop, content moderators, Saturation Attacks, large language models, prompt injection, jailbreak, context engineering, AI red teaming  
   
 ---  
 
