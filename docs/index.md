@@ -13,7 +13,9 @@ Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026
 - Zenodo (Latest version):  
   [https://doi.org/10.5281/zenodo.18248787](https://doi.org/10.5281/zenodo.18248787)  
 - X Announcement:  
-  [https://x.com/hajimetwi3/status/2011559002648559773?s=20](https://x.com/hajimetwi3/status/2011559002648559773?s=20)
+  [https://x.com/hajimetwi3/status/2011559002648559773](https://x.com/hajimetwi3/status/2011559002648559773)
+- Reddit Announcement:  
+  [https://www.reddit.com/r/OpenLLMSymposium/comments/1qdj567/meta_attacks_for_ai_human_and_ai_reviewers_under/](https://www.reddit.com/r/OpenLLMSymposium/comments/1qdj567/meta_attacks_for_ai_human_and_ai_reviewers_under/)  
 - Note (Japanese version):  
   [https://note.com/hajimetwi3/n/n910e8d585c9e](https://note.com/hajimetwi3/n/n910e8d585c9e)  
   
